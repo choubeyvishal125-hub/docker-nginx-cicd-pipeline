@@ -1,22 +1,16 @@
-
-# VS Code
 .vscode/
 
-# Windows
 Thumbs.db
 Desktop.ini
 
-# Secrets
 .env
 .env.*
 !.env.example
 
-# Logs and temporary files
 logs/
 *.log
 *.tmp
 *.bak
 
-# Private keys
 *.pem
 *.key
